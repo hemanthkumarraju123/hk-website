@@ -1,0 +1,142 @@
+
+.d
+{
+  background-color: #E4F9F5;
+  padding : 100px;
+  font-family: "Merriweather", serif;
+  text-align : center;
+
+}
+
+.bottom
+{
+  height: 250px;
+  width : 250px;
+  border-radius: 125px;
+  float : left;
+  position : relative;
+  right : 30px;
+}
+.new
+{
+
+  width : 50%;
+  margin : 100px auto 100px auto;
+  text-align: left;
+
+}
+.mountain
+{
+  height : 300px;
+  width :300px;
+
+  background-color: #E4F9F5;
+  margin-top : 50px;
+  position : relative;
+  right : 60px;
+}
+h1
+{
+  text-align: center;
+  font-family: "Sacramento";
+  font-size: 50px;
+  position : relative;
+  top : 20px;
+  color : #66BFBF;
+  line-height: 2;
+
+}
+h2
+{
+  color : #66BFBF;
+  text-align: center;
+  font-weight: normal;
+}
+
+p{
+  text-align: center;
+  font-family : "Montserrat";
+}
+.cloud1
+{
+  float: right;
+  position : relative;
+  right : 250px;
+  bottom : 50px;
+}
+.cloud2
+{
+  float: left;
+  position : relative;
+  left : 200px;
+}
+.code
+{
+  border-radius: 75px;
+  height : 250px;
+  float : left;
+  position : relative;
+  right : 30px;
+}
+.cont
+{
+  background-color: #E4F9F5;
+  text-align: center;
+}
+h3
+{
+  color : #11999E;
+}
+hr{
+  margin : 100px auto 100px auto;
+}
+p{
+  line-height: 2;
+}
+.narrate
+{
+  float : right;
+  position : relative;
+  left : 40px;
+}
+.dance
+{
+  float:right;
+  position : relative;
+  left : 30px;
+
+}
+.rrr
+{
+  position : relative;
+  top : 75px;
+  width : 50%;
+}
+.my
+{
+  text-align: center;
+}
+.button{
+        color : teal;
+        position: relative;
+        left : 600px;
+
+}
+.last
+{
+    background-color:
+}
+h4
+{
+   color : #11999E;
+}
+.lastone
+{
+  background-color: #66BFBF;
+  text-align: center;
+  position: relative;
+  top: 50px;
+  height : 150px;
+  width : 100%;
+
+}
